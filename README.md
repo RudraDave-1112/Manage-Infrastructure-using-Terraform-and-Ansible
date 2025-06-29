@@ -40,3 +40,5 @@ Verified that the correct page was deployed on both Cloud group servers.
 Ensured both groups had the correct software and content deployed.
 
 Accessed public IPs in the browser and confirmed the correct webpage loaded for each group.
+
+https://drive.google.com/drive/folders/1hhvJ6VziEaJnqu81AcTH6SsNLSIt97Cb?usp=drive_link
