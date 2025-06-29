@@ -1,4 +1,5 @@
 # Manage-Infrastructure-using-Terraform-and-Ansible
+Link for the Repos and Packages of this Project : https://drive.google.com/drive/folders/1hhvJ6VziEaJnqu81AcTH6SsNLSIt97Cb?usp=drive_link
 In this lab, I built and configured cloud infrastructure using Terraform and Ansible, demonstrating full-stack provisioning and automation. The setup involved provisioning a control node, managing multiple web servers, and deploying different content to each group of servers.
 
 1.Provisioned a Control Node using Terraform and set it up as the Ansible controller.
@@ -41,4 +42,4 @@ Ensured both groups had the correct software and content deployed.
 
 Accessed public IPs in the browser and confirmed the correct webpage loaded for each group.
 
-https://drive.google.com/drive/folders/1hhvJ6VziEaJnqu81AcTH6SsNLSIt97Cb?usp=drive_link
+
